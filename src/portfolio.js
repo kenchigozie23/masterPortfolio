@@ -127,7 +127,7 @@ const skills = {
         },
         {
           skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo.png",
+          imageSrc: "deeplearning_ai_logo",
         },
       ],
     },
@@ -332,7 +332,7 @@ const competitiveSites = {
       style: {
         color: "#F79F1B",
       },
-      profileLink: "https://leetcode.com/layman_brother/",
+      profileLink: "https://leetcode.com/",
     },
     {
       siteName: "HackerRank",
@@ -340,7 +340,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "https://www.hackerrank.com/layman_brother",
+      profileLink: "https://www.hackerrank.com/",
     },
     {
       siteName: "Codechef",
@@ -348,7 +348,7 @@ const competitiveSites = {
       style: {
         color: "#5B4638",
       },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
+      profileLink: "https://www.codechef.com/",
     },
     {
       siteName: "Codeforces",
@@ -356,7 +356,7 @@ const competitiveSites = {
       style: {
         color: "#1F8ACB",
       },
-      profileLink: "http://codeforces.com/profile/layman_brother",
+      profileLink: "http://codeforces.com/",
     },
     {
       siteName: "Hackerearth",
@@ -364,7 +364,7 @@ const competitiveSites = {
       style: {
         color: "#323754",
       },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
+      profileLink: "https://www.hackerearth.com/",
     },
     {
       siteName: "Kaggle",
@@ -372,7 +372,7 @@ const competitiveSites = {
       style: {
         color: "#20BEFF",
       },
-      profileLink: "https://www.kaggle.com/laymanbrother",
+      profileLink: "https://www.kaggle.com/",
     },
   ],
 };
@@ -414,8 +414,7 @@ const certifications = {
       title: "Machine Learning",
       subtitle: "- Andrew Ng",
       logo_path: "stanford_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
+      certificate_link: "/machine-learning-google.pdf",
       alt_name: "Stanford University",
       color_code: "#8C151599",
     },
@@ -423,17 +422,16 @@ const certifications = {
       title: "Deep Learning",
       subtitle: "- Andrew Ng",
       logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
+      certificate_link: "/tensorflowdeveloper.pdf",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
     {
-      title: "ML on GCP",
-      subtitle: "- GCP Training",
+      title: "Google IT Support",
+      subtitle: "- Amanda Brophy",
       logo_path: "google_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
+        "https://www.coursera.org/account/accomplishments/specialization/certificate/W743F68QU3VZ",
       alt_name: "Google",
       color_code: "#0C9D5899",
     },
@@ -441,8 +439,7 @@ const certifications = {
       title: "Data Science",
       subtitle: "- Alex Aklson",
       logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
+      certificate_link: "/dataibm.pdf",
       alt_name: "IBM",
       color_code: "#1F70C199",
     },
@@ -451,43 +448,35 @@ const certifications = {
       subtitle: "- Kim Akers",
       logo_path: "microsoft_logo.png",
       certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
+        "/Microsoft_Transforming_Big_Data_to_Intelligent_Systemss.pdf",
       alt_name: "Microsoft",
       color_code: "#D83B0199",
     },
     {
-      title: "Advanced Data Science",
-      subtitle: "- Romeo Kienzler",
+      title: "Advanced SEO",
+      subtitle: "- Dr. Joses J",
       logo_path: "ibm_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
+        "https://udemy-certificate.s3.amazonaws.com/pdf/UC-c36d33f5-e9be-4020-82db-931322f6dd9a.pdf",
       alt_name: "IBM",
       color_code: "#1F70C199",
     },
     {
-      title: "Advanced ML on GCP",
-      subtitle: "- GCP Training",
+      title: "Google Digital Marketing & E-commerce",
+      subtitle: "- Amanda Brophy",
       logo_path: "google_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
+        "https://coursera.org/share/88246c99611878fc554dec77489bb713",
       alt_name: "Google",
       color_code: "#0C9D5899",
     },
-    {
-      title: "DL on Tensorflow",
-      subtitle: "- Laurence Moroney",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
+
     {
       title: "Fullstack Development",
-      subtitle: "- Jogesh Muppala",
+      subtitle: "- Meta staff",
       logo_path: "coursera_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
+        "https://coursera.org/share/86c679a83e7c32ebc439e7c43a98e907",
       alt_name: "Coursera",
       color_code: "#2A73CC",
     },
@@ -496,28 +485,20 @@ const certifications = {
       subtitle: "- Qwiklabs",
       logo_path: "gcp_logo.png",
       certificate_link:
-        "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
+        "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750o",
       alt_name: "GCP",
       color_code: "#4285F499",
     },
-    {
-      title: "Cryptography",
-      subtitle: "- Saurabh Mukhopadhyay",
-      logo_path: "nptel_logo.png",
-      certificate_link:
-        "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-      alt_name: "NPTEL",
-      color_code: "#FFBB0099",
-    },
-    {
-      title: "Cloud Architecture",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
+
+    // {
+    //   title: "Cloud Architecture",
+    //   subtitle: "- Qwiklabs",
+    //   logo_path: "gcp_logo.png",
+    //   certificate_link:
+    //     "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
+    //   alt_name: "GCP",
+    //   color_code: "#4285F499",
+    // },
   ],
 };
 
@@ -739,18 +720,18 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
-    locality: "San Jose",
-    country: "USA",
-    region: "California",
+    subtitle: "St'Mary's, FCT, Abuja, Nigeria 95129",
+    locality: "FCT",
+    country: "Nigeria",
+    region: "Abuja",
     postalCode: "95129",
-    streetAddress: "Saratoga Avenue",
+    streetAddress: "St'Mary's",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
   },
   phoneSection: {
-    title: "",
-    subtitle: "",
+    title: "Contact me",
+    subtitle: "+2347082039150",
   },
 };
 

@@ -520,29 +520,29 @@ const experience = {
           company_url: "https://legatohealthtech.com/",
           logo_path: "legato_logo.png",
           duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
+          location: "on-site",
           description:
             "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
           color: "#0879bf",
         },
         {
           title: "Android and ML Developer",
-          company: "Muffito Incorporation",
+          company: "Interswitch Incorporation",
           company_url: "https://www.linkedin.com/company/muffito-inc/about/",
           logo_path: "muffito_logo.png",
           duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
+          location: "on-site",
           description:
             "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
           color: "#9b1578",
         },
         {
           title: "Android Developer",
-          company: "FreeCopy Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/freecopy/about/",
+          company: "Flutterwave Ltd.",
+          company_url: "https://www.linkedin.com/company/flutterwave",
           logo_path: "freecopy_logo.png",
           duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
+          location: "Remote",
           description:
             "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
           color: "#fc1f20",
@@ -558,7 +558,7 @@ const experience = {
           company_url: "https://www.delhivery.com/",
           logo_path: "delhivery_logo.png",
           duration: "May 2019 - Sept 2019",
-          location: "Gurgaon, Haryana",
+          location: "Work From Home",
           description:
             "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
           color: "#ee3c26",
@@ -586,7 +586,7 @@ const experience = {
           company_url: "https://about.google/",
           logo_path: "google_logo.png",
           duration: "June 2019 - April 2020",
-          location: "Hyderabad, Telangana",
+          location: "Work From Home",
           description:
             "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
           color: "#4285F4",
@@ -597,7 +597,7 @@ const experience = {
           company_url: "https://www.microsoft.com/",
           logo_path: "microsoft_logo.png",
           duration: "Aug 2019 - May 2020",
-          location: "Hyderabad, Telangana",
+          location: "Work From Home",
           description:
             "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
           color: "#D83B01",
@@ -608,7 +608,7 @@ const experience = {
           company_url: "https://www.mozilla.org/",
           logo_path: "mozilla_logo.png",
           duration: "Oct 2019 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
+          location: "USA",
           description:
             "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
           color: "#000000",
@@ -620,7 +620,7 @@ const experience = {
             "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
           logo_path: "dsc_logo.png",
           duration: "Jan 2018 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
+          location: "USA",
           description:
             "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
           color: "#0C9D58",

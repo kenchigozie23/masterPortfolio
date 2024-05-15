@@ -67,7 +67,7 @@ const socialMediaLinks = [
   {
     name: "X-Twitter",
     link: "https://twitter.com/",
-    fontAwesomeIcon: "fa-x-twitter", // Reference https://fontawesome.com/icons/x-twitter?f=brands&s=solid
+    fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/x-twitter?f=brands&s=solid
     backgroundColor: "#000000", // Reference https://simpleicons.org/?q=x
   },
   {
@@ -507,24 +507,13 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect, SEO Specialist and a Research writer. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work",
       work: true,
       experiences: [
-        {
-          title: "Machine Learning Engineer",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
-          duration: "June 2023 - Present",
-          location: "San Jose, CA, USA",
-          description:
-            "Improving ads ranking models on the core TikTok product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
-          color: "#000000",
-        },
         {
           title: "Associate AI Engineer",
           company: "Legato Health Technology",
@@ -563,17 +552,6 @@ const experience = {
     {
       title: "Internships",
       experiences: [
-        {
-          title: "Machine Learning Intern",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
-          duration: "May 2022 - Aug 2022",
-          location: "San Francisco, USA",
-          description:
-            "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
-          color: "#000000",
-        },
         {
           title: "Data Science Research Intern",
           company: "Delhivery Pvt. Ltd.",
@@ -680,25 +658,29 @@ const publicationsHeader = {
 const publications = {
   data: [
     {
-      id: "neuro-symbolic-sudoku-solver",
-      name: "Neuro-Symbolic Sudoku Solver",
-      createdAt: "2023-07-02T00:00:00Z",
-      description: "Paper published in KDD KiML 2023",
-      url: "https://arxiv.org/abs/2307.00653",
+      id: "The Rise of Cloud Infrastructure: Transforming Industries Worldwide",
+      name:
+        "The Rise of Cloud Infrastructure: Transforming Industries Worldwide",
+      createdAt: "2024-04-03T00:00:00Z",
+      description: "Paper published in Paperspace",
+      url:
+        "https://ken-andrax-blog.vercel.app/articles/crafting-a-design-system-for-a-multiplanetary-future",
     },
     {
-      id: "mdp-diffusion",
-      name: "MDP-Diffusion",
-      createdAt: "2023-09-19T00:00:00Z",
+      id: "Unleashing AI's Potential in Medicine: Revolutionizing Healthcare",
+      name: "Unleashing AI's Potential in Medicine: Revolutionizing Healthcare",
+      createdAt: "2023-05-01T00:00:00Z",
       description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/mdp-diffusion/",
+      url:
+        "https://ken-andrax-blog.vercel.app/articles/introducing-animaginary",
     },
     {
       id: "consistency-models",
-      name: "Consistency Models",
-      createdAt: "2023-10-12T00:00:00Z",
+      name: "Best SEO Practices: Optimizing Your Website for Search Engines",
+      createdAt: "2023-07-14T00:00:00Z",
       description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/consistency-models/",
+      url:
+        "https://ken-andrax-blog.vercel.app/articles/rewriting-the-cosmos-kernel-in-rust",
     },
   ],
 };
@@ -715,19 +697,20 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "https://ken-andrax-blog.vercel.app/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
-    subtitle: "St'Mary's, FCT, Abuja, Nigeria 95129",
+    subtitle: "Wuse, FCT, Abuja, Nigeria 95129",
     locality: "FCT",
     country: "Nigeria",
     region: "Abuja",
     postalCode: "95129",
     streetAddress: "St'Mary's",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+    location_map_link:
+      "https://www.google.com/maps/@9.0338725,8.677457,6z/data=!3m1!4b1!4m2!7m1!2e1?entry=ttu",
   },
   phoneSection: {
     title: "Contact me",

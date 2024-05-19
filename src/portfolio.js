@@ -384,7 +384,7 @@ const degrees = {
       subtitle: "B.Tech. in Computer Engineering",
       logo_path: "unn.png",
       alt_name: "UNN logo",
-      duration: "2013 - 2018",
+      duration: "2013 - 2017",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
@@ -397,7 +397,7 @@ const degrees = {
       subtitle: "Bachelor of Medicine and Bachelor of Surgery - MBBS",
       logo_path: "ebsu.png",
       alt_name: "Ebonyi State University",
-      duration: "2019 - 2023",
+      duration: "2018 - 2023",
       descriptions: [
         "⚡ Volunteered over 200 hours at the university's free clinic, providing compassionate care to underserved populations",
         "⚡ Conducted independent research on the efficacy of a novel diabetes treatment, presenting findings at the National Student Research Conference",

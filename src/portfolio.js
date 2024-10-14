@@ -21,12 +21,12 @@ const seo = {
 const greeting = {
   title: "Kenneth Okoronkwo",
   logo_name: "Kenneth Okoronkwo",
-  nickname: "andraX",
+  nickname: "AndraX",
   subTitle:
-    "Multitalented professional with a unique blend of medical expertise, technical prowess and creative flair. A medical doctor specializing in public health, coupled with extensive experience as a research writer, SEO specialist, software developer, data analyst, and digital marketer. Excelling in bridging the gap between healthcare, technology, and effective communication strategies",
+    "Multitalented professional with a unique blend of medical expertise, technical prowess and creative flair. Coupled with extensive experience as a blockchain developer, research writer, software engineer, data analyst, and digital marketer. Excelling in bridging the gap between healthcare, technology and effective communication strategies",
   resumeLink:
-    "https://drive.google.com/file/d/1fBuUTcpLT8AArAaH3mUigDPpJn_JMIAS/view?usp=sharing",
-  portfolio_repository: "https://github.com/kenchigozie23/masterPortfolio",
+    "https://drive.google.com/file/d/1yXNOSwHxRbNIt_Kypq0qQIKV_NUVjLX7/view?usp=sharing",
+  portfolio_repository: "https://github.com/kenchigozie23/",
   githubProfile: "https://github.com/kenchigozie23",
 };
 
@@ -127,7 +127,7 @@ const skills = {
         },
         {
           skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo",
+          imageSrc: "deeplearning_ai_logo.png",
         },
       ],
     },
@@ -380,30 +380,30 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "University of Nigeria Nsukka",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "unn.png",
+      title: "University of Pretoria, South Africa",
+      subtitle: "Bachelor of Computer Engineering with Honours",
+      logo_path: "pl.png",
       alt_name: "UNN logo",
-      duration: "2012 - 2016",
+      duration: "2016 - 2019",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
         "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
       ],
-      website_link: "https://www.unn.edu.ng",
+      website_link: "https://www.up.ac.za/",
     },
     {
-      title: "Ebonyi State University Abakaliki",
-      subtitle: "Bachelor of Medicine and Bachelor of Surgery - MBBS",
-      logo_path: "ebsu.png",
-      alt_name: "Ebonyi State University",
-      duration: "2018 - 2024",
+      title: "University of Nigeria, Nsukka",
+      subtitle: "Diploma in Software Engineering",
+      logo_path: "unn.png",
+      alt_name: "University of Nigeria, Nsukka",
+      duration: "2014 - 2016",
       descriptions: [
-        "⚡ Volunteered over 200 hours at the university's free clinic, providing compassionate care to underserved populations",
+        "⚡ Volunteered and contributed to open source projects",
         "⚡ Conducted independent research on the efficacy of a novel diabetes treatment, presenting findings at the National Student Research Conference",
-        "⚡ Selected for the prestigious Summer Internship Program at Johns Hopkins Hospital, gaining invaluable clinical experience",
+        "⚡ Developed and maintained RESTful APIsDeveloped and maintained RESTful APIs",
       ],
-      website_link: "https://www.ebsu.edu.ng/",
+      website_link: "https://www.unn.edu.ng/",
     },
   ],
 };
@@ -507,7 +507,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect, SEO Specialist and a Research writer. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have worked with many evolving startups as Blockchain Developer, Designer and Software Engineer, SEO Specialist and a Research writer. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -515,36 +515,36 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "on-site",
+          title: "Blockchain Developer",
+          company: "Trinetix Solutions",
+          company_url: "https://www.trinetix.com/",
+          logo_path: "trinix-logo.png",
+          duration: "Jan 2023 - Present",
+          location: "remote",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "Write, test, and deploy smart contracts using languages like Solidity (for Ethereum) or Rust (for Solana) and Create user interfaces for blockchain-based applications",
           color: "#0879bf",
         },
         {
-          title: "Android and ML Developer",
-          company: "Interswitch Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "on-site",
+          title: "Software Developer",
+          company: "Flutterwave",
+          company_url: "https://www.linkedin.com/company/flutterwave",
+          logo_path: "flutterwave.png",
+          duration: "Fwb 2021 - Dec 2023",
+          location: "Remote",
           description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+            "Analyze user requirements and create software design specifications and Create and maintain databases, applications, and interfaces",
           color: "#9b1578",
         },
         {
-          title: "Android Developer",
-          company: "Flutterwave Ltd.",
-          company_url: "https://www.linkedin.com/company/flutterwave",
-          logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
+          title: "Backend Developer",
+          company: "Quest Global Technologies Limited",
+          company_url: "https://www.questglt.com/",
+          logo_path: "R.png",
+          duration: "Mar 2020 - Jan 2021",
           location: "Remote",
           description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+            "Develop and maintain server-side logic using languages such as Python, Java, Ruby, PHP, or Node.js",
           color: "#fc1f20",
         },
       ],
@@ -553,26 +553,25 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Data Science Research Intern",
-          company: "Delhivery Pvt. Ltd.",
-          company_url: "https://www.delhivery.com/",
-          logo_path: "delhivery_logo.png",
+          title: "Software Developer Intern",
+          company: "Interswitch",
+          company_url: "https://www.interswitch.com/",
+          logo_path: "interswitch.png",
           duration: "May 2019 - Sept 2019",
           location: "Work From Home",
           description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
+            "Design and implement scalable solutions to handle increasing loads and Design and develop microservices-based architectures",
           color: "#ee3c26",
         },
         {
-          title: "Data Science Intern",
+          title: "Blockchain Developer Intern",
           company: "Intel Indexer LLC",
           company_url:
             "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
           logo_path: "intel_logo.jpg",
           duration: "Nov 2018 - Dec 2018",
           location: "Work From Home",
-          description:
-            "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
+          description: "Build decentralized applications on the blockchain",
           color: "#0071C5",
         },
       ],
@@ -691,7 +690,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "kennyxxx.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with Blockchain, AI, React, Android, Cloud and Opensource Development.",
   },
   blogSection: {
     title: "Blogs",

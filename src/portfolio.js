@@ -701,12 +701,12 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "7, Brick lane, London, United Kingdom",
+    subtitle: "Brick lane, London, United Kingdom",
     locality: "Ealing",
     country: "London",
     region: "Brick lane",
     postalCode: "95129",
-    streetAddress: "3",
+    streetAddress: "3, Brick lane",
     avatar_image_path: "address_image.svg",
     location_map_link:
       "https://www.google.com/maps/@9.0338725,8.677457,6z/data=!3m1!4b1!4m2!7m1!2e1?entry=ttu",

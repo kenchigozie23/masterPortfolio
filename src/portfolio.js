@@ -701,19 +701,19 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "Wuse, FCT, Abuja, Nigeria 95129",
-    locality: "FCT",
-    country: "Nigeria",
-    region: "Abuja",
+    subtitle: "7, Brick lane, London, United Kingdom",
+    locality: "Ealing",
+    country: "London",
+    region: "Brick lane",
     postalCode: "95129",
-    streetAddress: "St'Mary's",
+    streetAddress: "3",
     avatar_image_path: "address_image.svg",
     location_map_link:
       "https://www.google.com/maps/@9.0338725,8.677457,6z/data=!3m1!4b1!4m2!7m1!2e1?entry=ttu",
   },
   phoneSection: {
     title: "Contact me",
-    subtitle: "+2347082039150",
+    subtitle: "+447082039150",
   },
 };
 

@@ -380,21 +380,21 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "University of Pretoria, South Africa",
-      subtitle: "Bachelor of Computer Engineering with Honours",
-      logo_path: "pl.png",
-      alt_name: "UNN logo",
+      title: "Ebonyi State University, Nigeria",
+      subtitle: "Medicine and Surgery",
+      logo_path: "ebsu.png",
+      alt_name: "EBSU logo",
       duration: "2016 - 2019",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
         "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
       ],
-      website_link: "https://www.up.ac.za/",
+      website_link: "https://www.ebsu.edu.ng/",
     },
     {
-      title: "University of Nigeria, Nsukka",
-      subtitle: "Diploma in Software Engineering",
+      title: "University of Science and Technology, Owerri",
+      subtitle: " Software Engineering",
       logo_path: "unn.png",
       alt_name: "University of Nigeria, Nsukka",
       duration: "2014 - 2016",

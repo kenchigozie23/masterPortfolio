@@ -386,7 +386,7 @@ const degrees = {
       alt_name: "EBSU logo",
       duration: "2016 - 2019",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
+        "⚡ Conducted independent research on the efficacy of a novel diabetes treatment, presenting findings at the National Student Research Conference.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
         "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
       ],
@@ -403,7 +403,7 @@ const degrees = {
         "⚡ Conducted independent research on the efficacy of a novel diabetes treatment, presenting findings at the National Student Research Conference",
         "⚡ Developed and maintained RESTful APIsDeveloped and maintained RESTful APIs",
       ],
-      website_link: "https://www.unn.edu.ng/",
+      website_link: "https://www.futo.edu.ng/",
     },
   ],
 };

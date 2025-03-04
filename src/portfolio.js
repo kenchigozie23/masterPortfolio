@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Ken's Portfolio",
     type: "website",
-    url: "http://master-portfolio-one.vercel.app",
+    url: "https://codeblockportfolio.vercel.app",
   },
 };
 
@@ -701,19 +701,19 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "Brick lane, London, United Kingdom",
-    locality: "Ealing",
-    country: "London",
-    region: "Brick lane",
+    subtitle: "FCT, Abuja, Nigeria",
+    locality: "Abuja",
+    country: "Nigeria",
+    region: "Abuja",
     postalCode: "95129",
-    streetAddress: "3, Brick lane",
+    streetAddress: "3, Wuse, FCT, Abuja, Nigeria",
     avatar_image_path: "address_image.svg",
     location_map_link:
       "https://www.google.com/maps/@9.0338725,8.677457,6z/data=!3m1!4b1!4m2!7m1!2e1?entry=ttu",
   },
   phoneSection: {
     title: "Contact me",
-    subtitle: "+447082039150",
+    subtitle: "+2347082039150",
   },
 };
 
